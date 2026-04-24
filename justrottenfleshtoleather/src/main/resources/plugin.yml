@@ -1,0 +1,6 @@
+name: justrottenfleshtoleather
+version: '1.2'
+main: me.Jacob7870.justrottenfleshtoleather.Justrottenfleshtoleather
+api-version: '1.21'
+author: JACOB7870
+description: This is a series of the just... plugins it lets you smelt rotten flesh into leather on campfires, smokers, and furnaces
